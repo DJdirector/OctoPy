@@ -1,0 +1,62 @@
+Screen {
+    background: black;
+    color: white;
+    border: round white;
+}
+
+#header-bar { 
+    height: 1;
+    width: 100%;
+}
+
+#clock {
+    width: 1fr;
+    text-align: right;
+    color: gray;
+}
+
+#main-body { 
+    height: 1fr; 
+}
+
+#file-panel {
+    width: 30%;
+    height: 100%;
+    border: round white;
+}
+
+#output-panel {
+    width: 70%;
+    height: 100%;
+    border: round white;
+}
+
+#log-scroll {
+    height: 1fr;
+    background: #050505;
+}
+
+#log-text {
+    padding: 1;
+}
+
+#user-input {
+    dock: bottom;
+    border: tall white;
+    margin: 0 1;
+}
+
+#footer-bar {
+    height: 1;
+    width: 100%;
+    background: black;
+}
+
+#version {
+    color: #444;
+}
+
+.status-header {
+    text-style: bold;
+    padding-left: 1;
+}
