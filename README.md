@@ -2,15 +2,11 @@
     DJdirector Presents:
 </p>
 
-<p align="center" style="font-size: 3em;">
-    <b>🐍 OctoPy 🐙</b>
-</p>
+<div align="center">
+  <img src="LOGO.png" />
+</div>
 
 ---
-
-<p align="center">
-    Setup Script Organizer written in Python
-</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Engine-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Powered">
